@@ -5,8 +5,8 @@
 | --------------------------- | --------------------------- |
 
 
-| <img src="CFD/EC.png" > | <img src="CFD/3AX.png" > |
-| --------------------------- | --------------------------- |
+ <img src="CFD/EC.png" > 
+ <img src="CFD/3AX.png" > 
 
 
 # OPEN ROCKET SIMULATIONS
