@@ -5,9 +5,7 @@
 | --------------------------- | --------------------------- |
 
 
- <img src="CFD/IMG/EC.png" > 
- <img src="CFD/IMG/3AX.png" > 
-
+![{3DB31773-1DFE-4D5B-984B-18171117DC99}](https://github.com/user-attachments/assets/1fda3a8a-6c43-416e-be76-c3f1363aa9a0)
 
 # OPEN ROCKET SIMULATIONS
 
