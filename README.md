@@ -1,12 +1,12 @@
 # Active-Fin-stabilized-GPS-guided-Rocket
 
 # CAD
-| <img src="CAD/3d.png" > | <img src="CAD/combined v6+_1.png" > |
+| <img src="CAD/IMG/3d.png" > | <img src="CAD/IMG/combined v6+_1.png" > |
 | --------------------------- | --------------------------- |
 
 
- <img src="CFD/EC.png" > 
- <img src="CFD/3AX.png" > 
+ <img src="CFD/IMG/EC.png" > 
+ <img src="CFD/IMG/3AX.png" > 
 
 
 # OPEN ROCKET SIMULATIONS
@@ -20,6 +20,6 @@
 | Estimated Range         | 3914 meters (3.91 km)  |
 
 
-<img src="OPEN ROCKET GL/simulation.png"  > 
-<img src="OPEN ROCKET GL/GRAPH.png" > 
+<img src="OPEN ROCKET GL/IMG/simulation.png"  > 
+<img src="OPEN ROCKET GL/IMG/GRAPH.png" > 
 
