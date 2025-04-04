@@ -7,5 +7,6 @@
 
 # OPEN ROCKET SIMULATIONS
 
-| <img src="OPEN ROCKET GL/simulation.png" > | <img src="OPEN ROCKET GL/GRAPH.png" > |
-| --------------------------- | --------------------------- |
+<img src="OPEN ROCKET GL/simulation.png"  > 
+<img src="OPEN ROCKET GL/GRAPH.png" > 
+
