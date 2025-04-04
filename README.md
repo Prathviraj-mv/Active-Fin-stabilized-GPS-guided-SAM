@@ -1,4 +1,4 @@
-# Active-Fin-stabilized-GPS-guided-SAM
+# Active-Fin-stabilized-GPS-guided-Rocket
 
 # CAD
 | <img src="CAD/3d.png" > | <img src="CAD/combined v6+_1.png" > |
