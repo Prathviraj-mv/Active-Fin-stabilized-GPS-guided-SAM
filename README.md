@@ -1,4 +1,5 @@
 # Bio-Inspired Whale Flipper Rocket with Fin-Controlled Steering
+
 This project explores the application of biomimicry in aerospace by designing a rocket that uses fin-based control inspired by the flippers of whales. Unlike traditional rockets that rely solely on gimballed thrust or small control surfaces, this rocket mimics the natural, efficient movement of whale flippers to achieve enhanced stability, agility, and maneuverability.
 
 
@@ -15,7 +16,7 @@ This project explores the application of biomimicry in aerospace by designing a 
 
 # Open rocket 
  <img src= "OPEN ROCKET/Screenshot 2025-04-08 203237.png" > 
-```
+
 # Design Features:
 
 Whale Flipper-Inspired Fins:
@@ -26,8 +27,7 @@ The fins are actuated independently using high-torque, fast-response servos. By 
 
 Enhanced Stability and Maneuverability:
 The whale-inspired design naturally improves aerodynamic performance. The flipper-like fins help distribute forces more evenly, offering smoother control and reducing the chance of abrupt stalls or loss of stability.
-```
-```
+
 # Whale Fin Design Pros:
 
 More stable: Handles air better, less chance of tumbling.
@@ -37,4 +37,4 @@ Less drag at angles: Flies smoother even when tilted.
 More lift: Can get better lift with smaller fins.
 
 Good in wind: Stays stable in rough air.
-```
+
