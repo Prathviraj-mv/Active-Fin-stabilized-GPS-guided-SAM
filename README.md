@@ -11,11 +11,14 @@ This project explores the application of biomimicry in aerospace by designing a 
 # CFD for BIO inspired FIN's
 
 
+
 | <img src= "CFD/Screenshot 2025-04-08 212336.png" > | <img src="CFD/Screenshot 2025-04-08 212457.png" > |
 | --------------------------- | --------------------------- |
 
 # Open rocket 
- <img src= "OPEN ROCKET/Screenshot 2025-04-08 203237.png" > 
+
+| <img src= "OPEN ROCKET/Screenshot 2025-04-08 203237.png" > | <img src="OPEN ROCKET/graph.png" > |
+| --------------------------- | --------------------------- |
 
 # Design Features:
 
