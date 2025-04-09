@@ -48,16 +48,7 @@ The whale-inspired design naturally improves aerodynamic performance. The flippe
 
 
 The tubercles on the whale fin generate streamwise vortices that energize the boundary layer, delaying flow separation. Mathematically, this leads to an increase in maximum lift coefficient (
-𝐶
-𝐿
-C 
-L
-​
- ), higher stall angles, improved lift-to-drag ratio (
-𝐿
-/
-𝐷
-L/D), and greater aerodynamic efficiency. The bumps locally modify the angle of attack and cause small-scale vortex generation, which stabilizes the flow over the fin.
+𝐶𝐿), higher stall angles, improved lift-to-drag ratio (𝐿/𝐷), and greater aerodynamic efficiency. The bumps locally modify the angle of attack and cause small-scale vortex generation, which stabilizes the flow over the fin.
 
 # Whale Fin Design Pros:
 
