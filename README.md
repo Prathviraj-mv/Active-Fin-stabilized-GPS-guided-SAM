@@ -36,6 +36,20 @@ The fins are actuated independently using high-torque, fast-response servos. By 
 Enhanced Stability and Maneuverability:
 The whale-inspired design naturally improves aerodynamic performance. The flipper-like fins help distribute forces more evenly, offering smoother control and reducing the chance of abrupt stalls or loss of stability.
 
+
+# Analysis
+
+| **Concept**                  | **Mathematical Explanation**                                                                                                                                                     | **Effect**                                              |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| **Flow Separation Delay**     | Lift: \( L = \frac{1}{2} \rho V^2 A C_L \)  <br> With bumps, \( C_L \) drops slower at high angles of attack. | Flow stays attached longer → Delays stall.              |
+| **Lift-to-Drag Ratio (L/D)**  | \( \frac{L}{D} \) increases because lift increases and drag may decrease with energized flow.                                                | Higher aerodynamic efficiency.                         |
+| **Vortex Generation**         | Vortex strength: \( \Gamma = \int V_{\text{tangential}} \, dr \)  <br> (Stronger vortices = better flow control.)                            | Stabilizes flow, keeps it attached to the surface.      |
+| **Effective Area Changes**    | Local angle of attack \( \alpha_{\text{local}} \) varies slightly along the fin.                                                            | Smoothens stall behavior, more stable flight/control.   |
+
+---
+
+
+
 # Whale Fin Design Pros:
 
 More stable: Handles air better, less chance of tumbling.
