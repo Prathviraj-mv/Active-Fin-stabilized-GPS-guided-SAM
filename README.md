@@ -50,13 +50,20 @@ The whale-inspired design naturally improves aerodynamic performance. The flippe
 The tubercles on the whale fin generate streamwise vortices that energize the boundary layer, delaying flow separation. Mathematically, this leads to an increase in maximum lift coefficient (
 𝐶𝐿), higher stall angles, improved lift-to-drag ratio (𝐿/𝐷), and greater aerodynamic efficiency. The bumps locally modify the angle of attack and cause small-scale vortex generation, which stabilizes the flow over the fin.
 
+
+
 # Whale Fin Design Pros:
+Large, smooth bumps (not sharp)
 
-More stable: Handles air better, less chance of tumbling.
+Wide spacing between bumps
 
-Less drag at angles: Flies smoother even when tilted.
+Moderate amplitude (height of bumps is not huge compared to the fin size)
 
-More lift: Can get better lift with smaller fins.
+So based on your design, the effects are slightly different:
 
-Good in wind: Stays stable in rough air.
+Large smooth bumps → less aggressive vortex generation, but gentler flow guidance.
+
+Wide spacing → focuses control more on big flow structures, not tiny turbulence.
+
+Moderate amplitude → balances lift gain and drag penalty.
 
