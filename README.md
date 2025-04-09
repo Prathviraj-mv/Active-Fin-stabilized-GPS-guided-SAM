@@ -53,17 +53,17 @@ The tubercles on the whale fin generate streamwise vortices that energize the bo
 
 
 # Whale Fin Design Pros:
-Large, smooth bumps (not sharp)
+1.Large, smooth bumps (not sharp)
 
-Wide spacing between bumps
+2.Wide spacing between bumps
 
-Moderate amplitude (height of bumps is not huge compared to the fin size)
+3.Moderate amplitude (height of bumps is not huge compared to the fin size)
 
-So based on your design, the effects are slightly different:
+So based on the design, the effects are slightly different:
 
-Large smooth bumps → less aggressive vortex generation, but gentler flow guidance.
+1.Large smooth bumps → less aggressive vortex generation, but gentler flow guidance.
 
-Wide spacing → focuses control more on big flow structures, not tiny turbulence.
+2.Wide spacing → focuses control more on big flow structures, not tiny turbulence.
 
-Moderate amplitude → balances lift gain and drag penalty.
+3.Moderate amplitude → balances lift gain and drag penalty.
 
