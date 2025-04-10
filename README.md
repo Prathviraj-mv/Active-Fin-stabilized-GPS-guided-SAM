@@ -1,7 +1,7 @@
 # Bio-Inspired Whale Flipper Rocket with Fin-Controlled Steering
 
 This project explores the application of biomimicry in aerospace by designing a rocket that uses fin-based control inspired by the flippers of whales. Unlike traditional rockets that rely solely on gimballed thrust or small control surfaces, this rocket mimics the natural, efficient movement of whale flippers to achieve enhanced stability, agility, and maneuverability.
-
+<img src= "IMAGES/IMG_20250410_195855.jpg" >
 
 # CAD
 
