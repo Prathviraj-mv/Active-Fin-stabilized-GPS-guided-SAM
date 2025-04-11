@@ -56,6 +56,11 @@ The foregoing description illustrates the embodiment but should not be considere
 | <img src= "CAD/IMG/Screenshot 2025-04-08 201051.png" > | <img src="CAD/IMG/Screenshot 2025-04-08 201104.png" > |
 | --------------------------- | --------------------------- |
 
+# DIMENSIONS
+
+| <img src= "IMAGES/Screenshot 2025-04-11 195605.png" > | <img src="IMAGES/Screenshot 2025-04-11 195646.png" > |
+| --------------------------- | --------------------------- |
+
 # CFD for BIO inspired FIN's
 
 
@@ -63,7 +68,7 @@ The foregoing description illustrates the embodiment but should not be considere
 | <img src= "CFD/Screenshot 2025-04-08 212336.png" > | <img src="CFD/Screenshot 2025-04-08 212457.png" > |
 | --------------------------- | --------------------------- |
 
-CFD Simulation Explanation:
+# CFD Simulation Explanation:
 
 The CFD simulation shows the airflow behavior around a rocket fin. The streamlines indicate that the flow remains mostly smooth and attached across the surface of the fin, even with the presence of the leading-edge bumps (tubercles). These bumps slightly disturb the incoming flow, creating small, controlled vortices that help keep the boundary layer energized. This delays flow separation, which improves stability and control at various angles of attack. The velocity distribution reveals higher speeds over the upper surface of the fin, especially near the curved leading edge, reaching up to around 2178 m/s. The color gradient from blue to red confirms that the flow accelerates smoothly without any major zones of turbulence or flow detachment. Overall, the CFD results suggest that the biomimetic fin design enhances aerodynamic performance by maintaining steady airflow and reducing the risk of stall.
 
