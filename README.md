@@ -26,6 +26,25 @@ To reduce energy consumption during flight maneuvers, allowing the rocket to con
 
 To demonstrate the practical application of bio-mimicry principles in aerospace vehicle control through experimental validation.
 
+# COMPARISON WITH STANDARD FINS
+---
+
+| **Aspect**                        | **Normal Active Fin Control**                        | **Whale Flipper Fin Control (Bio-Inspired)**          |
+|------------------------------------|------------------------------------------------------|-------------------------------------------------------|
+| **Fin Shape**                      | Flat, conventional fins                             | Curved fins with leading-edge tubercles (bumps)        |
+| **Stall Resistance**               | Lower; stalls easily at high angles                  | High; delays stall due to vortex generation            |
+| **Maneuverability**                | Good at moderate speeds, poor near stall             | Excellent; agile even at high angles of attack         |
+| **Lift Generation**                | Standard                                             | Higher lift due to better airflow attachment           |
+| **Drag**                           | Lower at low angles, high at stall                   | Slightly higher drag but controlled at high AoA        |
+| **Energy Efficiency**              | Moderate (needs more thrust near stall)              | Better (saves energy by using natural airflow control) |
+| **Complexity of Fin Actuation**     | Simple flat surface movement                        | Slightly more complex due to 3D shape                  |
+| **Fabrication Simplicity**          | Easier (flat plates)                                | Harder (curved surfaces, needs precise shaping)        |
+| **Aerodynamic Stability**          | Okay, but may lose stability in turbulent flow       | Very stable; natural turbulence resistance             |
+| **Applications**                   | Missiles, basic rockets                             | Research rockets, precision-guided atmospheric vehicles |
+| **Bio-Mimicry Usage**              | None                                                | High (mimics whale flipper behavior)                   |
+
+---
+
 # SUMMARY OF THE INVENTION		
 
 The present invention discloses a bio-inspired rocket control system that uses actively controlled fins shaped and operated based on the dynamics of whale flippers. The rocket features control surfaces equipped with leading-edge tubercles, mimicking the natural design of whale flippers to enhance lift, delay aerodynamic stall, and improve maneuverability.
