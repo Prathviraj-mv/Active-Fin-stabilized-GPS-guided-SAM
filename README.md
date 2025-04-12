@@ -4,7 +4,7 @@
 
 The present invention generally relates to the field of aerospace engineering and aeronautics.
 More particularly, the invention pertains to bio-inspired flight control systems for rockets.
-Specifically, it involves the design and implementation of a fin-based rocket control mechanism inspired by the morphology and movement dynamics of whale flippers, enabling enhanced stability, agility, and maneuverability during low powered  atmospheric flight.
+Specifically, it involves the design and implementation of a fin-based rocket control mechanism inspired by the morphology and movement dynamics of whale flippers, enabling enhanced stability, agility, and maneuverability during low and medium powered atmospheric flight.
 
 # OBJECTS OF THE INVENTION	
 
@@ -49,7 +49,7 @@ To demonstrate the practical application of bio-mimicry principles in aerospace 
 
 The present invention discloses a bio-inspired rocket control system that uses actively controlled fins shaped and operated based on the dynamics of whale flippers. The rocket features control surfaces equipped with leading-edge tubercles, mimicking the natural design of whale flippers to enhance lift, delay aerodynamic stall, and improve maneuverability.
 
-Unlike conventional rockets that rely solely on thrust vectoring or rigid fins, the proposed system enables fine adjustments of pitch, yaw, and roll through independently actuated fins, achieving smoother and more efficient control during atmospheric flight. This design reduces energy consumption, enhances flight stability, and allows for precise trajectory corrections. The invention demonstrates the practical application of biological principles to aerospace systems, resulting in a rocket that combines agility, stability, and aerodynamic efficiency.
+Unlike conventional rockets that rely solely on thrust vectoring or rigid fins, the proposed system enables fine adjustments of pitch, yaw, and roll through independently actuated fins, achieving smoother and more efficient control during atmospheric flight. This design reduces energy consumption, enhances flight stability, and allows for precise trajectory corrections. The invention demonstrates the practical application of biological principles to aerospace systems, resulting in a rocket that combines agility, stability, and aerodynamic efficiency at low to moderate speeds.
 
 # DETAILED DESCRIPTION OF THE INVENTION
 
