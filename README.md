@@ -1,4 +1,4 @@
-# Bio-Inspired Whale Flipper Controlled Rocket for Agile Flight Maneuvering
+# Bio-Inspired Whale Flipper Controlled low powered Rocket for Agile Flight Maneuvering
 
 # TECHNICAL FIELD
 
