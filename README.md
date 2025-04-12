@@ -4,7 +4,7 @@
 
 The present invention generally relates to the field of aerospace engineering and aeronautics.
 More particularly, the invention pertains to bio-inspired flight control systems for rockets.
-Specifically, it involves the design and implementation of a fin-based rocket control mechanism inspired by the morphology and movement dynamics of whale flippers, enabling enhanced stability, agility, and maneuverability during low and medium powered atmospheric flight.
+Specifically, it involves the design and implementation of a fin-based rocket control mechanism inspired by the morphology and movement dynamics of whale flippers, enabling enhanced stability, agility, and maneuverability during low powered atmospheric flight.
 
 # OBJECTS OF THE INVENTION	
 
