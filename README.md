@@ -55,6 +55,8 @@ Unlike conventional rockets that rely solely on thrust vectoring or rigid fins, 
 
 In the following detailed description, the specific embodiment of the invention is explained to enable those skilled in the art to implement the invention. While various modifications may be possible, the invention is described with reference to its most effective realization.
 
+The whale flipper-inspired fin control system is highly effective at low Reynolds numbers and moderate velocities, typically encountered in low-power rocket flights.
+
 The present invention provides a rocket with bio-inspired fin-based control surfaces, mimicking the morphology and movement of whale flippers to achieve enhanced aerodynamic performance. The fins are shaped to include leading-edge tubercles similar to those found on whale flippers, which help in increasing lift, delaying aerodynamic stall, and reducing drag during flight.
 
 The rocket structure comprises a central fuselage, propulsion system, four independently actuated fins, a control system, and power electronics. The fins are mounted symmetrically around the rocket's body and are controlled via high-torque, high-speed servo motors capable of rapid angular adjustments.
@@ -125,6 +127,8 @@ The tubercles on the whale fin generate streamwise vortices that energize the bo
 
 # Advantages of the Invention
 The whale flipper fin-controlled rocket described herein offers several advantages over conventional rocket control systems, including but not limited to:
+
+The fin-controlled system is particularly suitable for low-power experimental rockets where precise control, energy efficiency, and stall resistance at lower speeds are essential.
 
 Enhanced Aerodynamic Efficiency:
 The whale flipper-inspired fin design, incorporating leading-edge tubercles, increases lift, delays stall, and reduces drag, resulting in smoother and more stable flight.
