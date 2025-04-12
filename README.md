@@ -82,6 +82,9 @@ The foregoing description illustrates the embodiment but should not be considere
 | <img src= "IMAGES/Screenshot 2025-04-11 195605.png" > | <img src="IMAGES/Screenshot 2025-04-11 195646.png" > |
 | --------------------------- | --------------------------- |
 
+| <img src= "IMAGES/fin v71.png" > | <img src="IMAGES/fin v72.png" > |
+| --------------------------- | --------------------------- |
+
 # CFD for BIO inspired FIN's
 
 
